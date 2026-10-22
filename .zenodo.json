@@ -1,0 +1,21 @@
+{
+  "title": "Joepify kennisbank (Markdown): gidsen over websites, webshops en e-mail",
+  "upload_type": "publication",
+  "description": "Markdown edition of 33 Dutch guides by Ayoub Assaidi (Joepify) on WordPress and PHP versions, DMARC/SPF/DKIM, SSL, webshop rules (KVK, withdrawal button, EAA, GPSR), Shopify and website migrations. The original pages on joepify.nl are the current versions. Made by Joepify, Rotterdam: https://www.joepify.nl",
+  "creators": [
+    {
+      "name": "Assaidi, Ayoub",
+      "affiliation": "Joepify"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "WordPress",
+    "PHP",
+    "DMARC",
+    "webshop",
+    "Shopify",
+    "Netherlands"
+  ],
+  "publication_type": "other"
+}
