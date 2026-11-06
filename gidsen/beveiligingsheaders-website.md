@@ -89,14 +89,12 @@ Je kunt je domein laten opnemen in de preload-lijst die in browsers zit ingebakk
 
 ## Zo controleer je het
 
-Doe de gratis [website check](https://www.joepify.nl/website-apk): die toont welke headers je site meestuurt en welke ontbreken. Draai je WordPress en wil je dit (en de updates eromheen) uit handen geven, kijk dan bij [WordPress onderhoud](https://www.joepify.nl/wordpress-onderhoud).
+Doe de gratis [website check](https://www.joepify.nl/website-apk): die toont welke headers je site meestuurt en welke ontbreken. Draai je WordPress en wil je dit (en de updates eromheen) uit handen geven, kijk dan bij WordPress onderhoud.
 
 ## Wat de website APK hierbij checkt
 
 Het onderdeel beveiliging van de [website check](https://www.joepify.nl/website-apk#apk-modules) doet één gewone aanvraag naar je homepage en leest de headers die terugkomen: HSTS (en of de max-age lang genoeg is), X-Content-Type-Options, X-Frame-Options of frame-ancestors, Referrer-Policy, Permissions-Policy en CSP. Hij meldt ook als X-Powered-By of een Server-header met versienummer je software verraadt. De APK test niet of een CSP goed werkt, alleen of hij er is.
 
-- Gratis tool[Check ook je vindbaarheid met de gratis SEO check](https://www.joepify.nl/gratis-seo-check)
-- Liever uitbesteden[Laat je WordPress-site veilig houden met WordPress onderhoud](https://www.joepify.nl/wordpress-onderhoud)
 
 ---
 Bron: [Security headers instellen: HSTS en meer voor je site](https://www.joepify.nl/kennisbank/beveiligingsheaders-website) · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.

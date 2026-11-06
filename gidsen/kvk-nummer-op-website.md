@@ -97,8 +97,6 @@ Het onderdeel wettelijke plichten van de [website check](https://www.joepify.nl/
 
 Dit artikel is algemene informatie en geen juridisch advies.
 
-- Gratis tool[Check ook je vindbaarheid met de gratis SEO check](https://www.joepify.nl/gratis-seo-check)
-- Liever uitbesteden[Laat je site bijhouden met WordPress onderhoud](https://www.joepify.nl/wordpress-onderhoud)
 
 ---
 Bron: [KvK-nummer op je website: verplicht? Zo zit het](https://www.joepify.nl/kennisbank/kvk-nummer-op-website) · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.

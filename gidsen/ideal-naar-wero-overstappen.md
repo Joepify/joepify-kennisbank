@@ -91,7 +91,7 @@ Data kunnen schuiven. Hou de pagina van je eigen PSP in de gaten, want die is le
 
 ## Zo controleer je het
 
-Loop je checkout door tot de betaalstap en kijk welk logo je ziet. De [website check](https://www.joepify.nl/website-apk#apk-modules) ziet of iDEAL op je site staat en geeft een seintje over de overstap naar Wero. Het logo in je checkout controleert hij niet, en hij rekent nooit af. Heb je een Shopify-winkel, doe dan ook de [Shopify winkel check](https://www.joepify.nl/shopify-winkel-check). Wil je dat ik de plugins, het logo en een testbetaling nalopen? Dat doe ik via [Shopify beheer](https://www.joepify.nl/shopify-beheer) of [WooCommerce webshop](https://www.joepify.nl/woocommerce-webshop-laten-maken).
+Loop je checkout door tot de betaalstap en kijk welk logo je ziet. De [website check](https://www.joepify.nl/website-apk#apk-modules) ziet of iDEAL op je site staat en geeft een seintje over de overstap naar Wero. Het logo in je checkout controleert hij niet, en hij rekent nooit af. Heb je een Shopify-winkel, doe dan ook de [Shopify winkel check](https://www.joepify.nl/shopify-winkel-check). Wil je dat ik de plugins, het logo en een testbetaling nalopen? Dat doe ik via [Shopify beheer](https://www.joepify.nl/shopify-beheer) of WooCommerce webshop.
 
 - Gratis tool[Heb je een Shopify-winkel? Doe ook de gratis Shopify winkel check](https://www.joepify.nl/shopify-winkel-check)
 - Liever uitbesteden[Laat Joepify dit doen: betaalmethodes en logo nalopen met Shopify beheer](https://www.joepify.nl/shopify-beheer)

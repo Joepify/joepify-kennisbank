@@ -27,7 +27,7 @@ Bij een nieuwe website verandert vaak de URL-structuur. Google kent uw oude adre
 
 Daarnaast kunnen titels, teksten, interne links en gestructureerde data bij een nieuwe site ongemerkt verdwijnen. Ook dat kost posities. Kleine schommelingen in de eerste weken na een migratie zijn normaal, terwijl Google de nieuwe site opnieuw verwerkt. Een blijvende daling is dat niet: die wijst bijna altijd op vergeten redirects of verloren content.
 
-Wilt u voor de overstap weten hoe uw huidige site ervoor staat? Met de [gratis SEO check](https://www.joepify.nl/gratis-seo-check) heeft u snel een vertrekpunt.
+Wilt u voor de overstap weten hoe uw huidige site ervoor staat? Met de gratis SEO check heeft u snel een vertrekpunt.
 
 ## Wanneer is een website migratie nodig?
 
@@ -36,7 +36,7 @@ Een website migratie is nodig wanneer uw huidige platform of hosting uw bedrijf 
 - Uw **Wix- of Squarespace-site** is te beperkt in ontwerp, functies of SEO-instellingen.
 - Uw webshop heeft betere productfilters, koppelingen of meertaligheid nodig.
 - Uw hosting is traag of onbetrouwbaar en de support reageert niet.
-- U betaalt een abonnement bij een websitebouwer, terwijl een eigen [WordPress website](https://www.joepify.nl/website-laten-maken) of [Shopify webshop](https://www.joepify.nl/webshop-laten-maken) u meer controle geeft.
+- U betaalt een abonnement bij een websitebouwer, terwijl een eigen WordPress website of [Shopify webshop](https://www.joepify.nl/webshop-laten-maken) u meer controle geeft.
 - U wilt naar een nieuw ontwerp met een andere paginastructuur.
 
 ## Waarom migraties zo vaak posities kosten
@@ -88,7 +88,7 @@ Een SEO migratie vraagt meer dan redirects. Dit is de checklist die wij bij elke
 - **Prestaties:** Core Web Vitals, laadsnelheid en mobiele weergave getest.
 - **Monitoring:** minimaal vier weken controle op 404-fouten, indexering en posities, vergeleken met de nulmeting.
 
-Wilt u de migratie combineren met blijvende groei in Google? Lees dan over [SEO uitbesteden](https://www.joepify.nl/blog/seo-uitbesteden). Wij combineren de migratie dan met een SEO-audit, zodat uw site na de verhuizing niet alleen even goed, maar liefst beter presteert.
+Wilt u de migratie combineren met blijvende groei in Google? Lees dan over SEO uitbesteden. Wij combineren de migratie dan met een SEO-audit, zodat uw site na de verhuizing niet alleen even goed, maar liefst beter presteert.
 
 ## Webshop migreren zonder SEO verlies
 
@@ -109,7 +109,7 @@ Wix en Squarespace zijn prima om snel te starten, maar ze worden beperkend zodra
 | E-commerce | Basisfuncties | Uitgebreid productbeheer en betaalmethoden | 
 | Meertaligheid | Beperkt | Volledig meertalig, bijvoorbeeld met WPML of Shopify Markets | 
 
-**WordPress** past bij zakelijke websites met veel content. **Shopify** past bij webshops die een betrouwbaar en schaalbaar verkoopplatform zoeken. Wij adviseren welk platform bij u past en verzorgen de complete [website migratie](https://www.joepify.nl/diensten#migratie). Gaat het om een nieuwe site? Bekijk dan ook [website laten maken](https://www.joepify.nl/website-laten-maken) of [website vernieuwen](https://www.joepify.nl/website-vernieuwen).
+**WordPress** past bij zakelijke websites met veel content. **Shopify** past bij webshops die een betrouwbaar en schaalbaar verkoopplatform zoeken. Wij adviseren welk platform bij u past en verzorgen de complete website migratie. Gaat het om een nieuwe site? Bekijk dan ook website laten maken of [website vernieuwen](https://www.joepify.nl/website-vernieuwen).
 
 ## Hosting migratie zonder downtime
 
@@ -122,7 +122,7 @@ Bij een hosting migratie verhuist uw website naar een andere server zonder dat h
 5. **DNS omzetten:** met een vooraf verlaagde TTL, zodat de overstap snel overal doorkomt.
 6. **Monitoring:** na de livegang controleren wij fouten, snelheid en bereikbaarheid.
 
-Tijdens de overgang draaien oude en nieuwe server tijdelijk naast elkaar, zodat uw bezoekers geen onderbreking merken. Zoekt u een nieuwe plek voor uw site? Lees over [zakelijke hosting in Nederland](https://www.joepify.nl/blog/zakelijke-hosting-nederland) of bekijk onze [hosting](https://www.joepify.nl/diensten#hosting).
+Tijdens de overgang draaien oude en nieuwe server tijdelijk naast elkaar, zodat uw bezoekers geen onderbreking merken. Zoekt u een nieuwe plek voor uw site? Lees over zakelijke hosting in Nederland of bekijk onze hosting.
 
 ## Wat kost een website migratie en hoe lang duurt het?
 
@@ -136,7 +136,7 @@ Wij noemen hier bewust geen standaardprijs, omdat geen twee migraties gelijk zij
 
 Eén vergeten redirect kost u misschien uw best scorende pagina. [Vraag uw gratis migratiecheck aan](https://www.joepify.nl/?p=website&src=blog-website-migratie-zonder-seo-verlies&m=Ik%20wil%20mijn%20website%20migreren%20zonder%20SEO%20verlies%20en%20ontvang%20graag%20een%20gratis%20migratiecheck%20en%20een%20voorstel%20op%20maat.#contact) of [neem contact op](https://www.joepify.nl/#contact) voordat u live gaat.
 
-Zit u al midden in een migratie en loopt er iets mis? Lees dan [WordPress problemen oplossen](https://www.joepify.nl/wordpress-problemen-oplossen) of [Shopify problemen oplossen](https://www.joepify.nl/blog/shopify-problemen-oplossen). Of bekijk ons werk op het gebied van [webdesign in Rotterdam](https://www.joepify.nl/website-laten-maken-rotterdam).
+Zit u al midden in een migratie en loopt er iets mis? Lees dan [WordPress problemen oplossen](https://www.joepify.nl/wordpress-problemen-oplossen) of Shopify problemen oplossen. Of bekijk ons werk op het gebied van webdesign in Rotterdam.
 
 ---
-Bron: [Website migratie zonder SEO verlies: stappenplan](https://www.joepify.nl/blog/website-migratie-zonder-seo-verlies) · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.
+Bron: Website migratie zonder SEO verlies: stappenplan · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.

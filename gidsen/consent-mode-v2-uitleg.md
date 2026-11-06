@@ -63,7 +63,7 @@ Kijk je liever in het tabblad *Netwerk* van de ontwikkelaarstools, dan zie je in
 
 ## Zo controleer je het
 
-Het onderdeel tracking van de [website check](https://www.joepify.nl/website-apk#apk-modules) laat zien welke meetcodes op je site staan (GA4, Tag Manager, Meta, TikTok) en of er signalen van Consent Mode v2 te zien zijn. Het onderdeel wettelijke plichten kijkt of er trackers laden voordat iemand toestemming geeft. Een klik op je banner doet de APK niet, dus de update na "accepteren" test je zelf met de stappen hierboven. Wil je dat ik banner, Consent Mode en pixels in één keer goed zet, kijk dan bij [Shopify beheer](https://www.joepify.nl/shopify-beheer) of [WordPress onderhoud](https://www.joepify.nl/wordpress-onderhoud).
+Het onderdeel tracking van de [website check](https://www.joepify.nl/website-apk#apk-modules) laat zien welke meetcodes op je site staan (GA4, Tag Manager, Meta, TikTok) en of er signalen van Consent Mode v2 te zien zijn. Het onderdeel wettelijke plichten kijkt of er trackers laden voordat iemand toestemming geeft. Een klik op je banner doet de APK niet, dus de update na "accepteren" test je zelf met de stappen hierboven. Wil je dat ik banner, Consent Mode en pixels in één keer goed zet, kijk dan bij [Shopify beheer](https://www.joepify.nl/shopify-beheer) of WordPress onderhoud.
 
 - Gratis tool[Verkoop je via Shopify? Doe ook de gratis Shopify winkel check](https://www.joepify.nl/shopify-winkel-check)
 - Liever uitbesteden[Laat je tracking op orde houden met Shopify beheer](https://www.joepify.nl/shopify-beheer)

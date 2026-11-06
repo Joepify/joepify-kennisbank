@@ -85,7 +85,6 @@ Doe de gratis [website check](https://www.joepify.nl/website-apk): die ziet of j
 
 Het onderdeel platform van de [website check](https://www.joepify.nl/website-apk#apk-modules) herkent Magento 2 aan vaste kenmerken in de HTML, zoals `/static/version.../frontend/` en de Magento-modules, en herkent Magento 1 aan oude paden. Het exacte versienummer kan de APK meestal niet zien, want Magento verbergt dat van buitenaf. De melding is daarom een signaal om je versie in de admin na te kijken, geen vonnis.
 
-- Gratis tool[Check ook je vindbaarheid met de gratis SEO check](https://www.joepify.nl/gratis-seo-check)
 - Liever uitbesteden[Overstappen van Magento naar Shopify](https://www.joepify.nl/shopify-migratie/magento)
 
 ---

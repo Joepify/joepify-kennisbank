@@ -58,7 +58,7 @@ Gebruik je Microsoft 365 en Google Workspace niet tegelijk, zet dan ook maar é�
 
 ### 1. Twee SPF-records
 
-Twee SPF-records op één domein is de meest voorkomende fout. Een typisch voorbeeld: iemand koppelt in 2026 een nieuwe nieuwsbriefdienst en maakt een tweede TXT-record met `v=spf1` aan. Volgens [RFC 7208](https://www.rfc-editor.org/rfc/rfc7208#section-3.2) mag een domein maar één SPF-record hebben. Bij twee records geeft de controle een "permerror", en dan valt SPF voor al je mail om, ook voor je gewone mailbox. Oplossing: voeg de includes samen in één record. Laat je je nieuwsbrief door een specialist versturen, dan regelt de specialist het record voor je. Zo werkt [e-mailmarketing uitbesteden](https://www.joepify.nl/blog/email-marketing-uitbesteden).
+Twee SPF-records op één domein is de meest voorkomende fout. Een typisch voorbeeld: iemand koppelt in 2026 een nieuwe nieuwsbriefdienst en maakt een tweede TXT-record met `v=spf1` aan. Volgens [RFC 7208](https://www.rfc-editor.org/rfc/rfc7208#section-3.2) mag een domein maar één SPF-record hebben. Bij twee records geeft de controle een "permerror", en dan valt SPF voor al je mail om, ook voor je gewone mailbox. Oplossing: voeg de includes samen in één record. Laat je je nieuwsbrief door een specialist versturen, dan regelt de specialist het record voor je. Zo werkt e-mailmarketing uitbesteden.
 
 ### 2. Meer dan 10 lookups
 
@@ -95,7 +95,6 @@ Wil je meteen ook je website, beveiliging en wettelijke plichten laten nalopen, 
 De website APK is een gratis scan van Joepify. In het onderdeel e-mail controleert de APK of je SPF-record bestaat en telt de scan dubbele SPF-records. Je ziet het resultaat in de [website check](https://www.joepify.nl/website-apk#apk-modules). Of elke dienst die namens jou mailt in het record staat, kan de APK niet zien: alleen jij weet welke diensten namens je domein mailen. Daarom blijft de inventaris uit stap 1 nodig. Combineer de APK dus met een testmail vanuit elke dienst, bijvoorbeeld je webshop en je nieuwsbrief.
 
 - Gratis tool[Test je SPF, DKIM en DMARC met de gratis e-mail check](https://www.joepify.nl/email-check)
-- Liever uitbesteden[Mailt je WordPress-site niet goed? Bekijk WordPress onderhoud](https://www.joepify.nl/wordpress-onderhoud)
 
 ---
 Bron: [SPF record instellen: zo komt je mail niet in spam](https://www.joepify.nl/kennisbank/spf-record-instellen) · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.

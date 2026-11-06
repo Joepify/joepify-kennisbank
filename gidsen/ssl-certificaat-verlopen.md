@@ -74,10 +74,8 @@ Een verlopen SSL-certificaat voorkom je met automatisch verlengen plus een contr
 
 ## Hoe controleer je of je SSL-certificaat goed staat?
 
-De makkelijkste controle van je SSL-certificaat is een gratis scan met de [website check](https://www.joepify.nl/website-apk#apk-modules) van Joepify. De check leest je certificaat uit, laat zien wanneer het verloopt en door wie het is uitgegeven, en kijkt of http netjes doorverwijst naar https. Wil je dat iemand je certificaten, updates en back-ups voor je bijhoudt, kijk dan bij [WordPress onderhoud](https://www.joepify.nl/wordpress-onderhoud). Staat je site nog bij een oude webbouwer, dan helpt [website overnemen](https://www.joepify.nl/website-overnemen). Meer over goede hosting lees je in [zakelijke hosting in Nederland](https://www.joepify.nl/blog/zakelijke-hosting-nederland). Controleer je certificaat daarnaast elke 30 dagen zolang automatisch verlengen nog niet aantoonbaar werkt.
+De makkelijkste controle van je SSL-certificaat is een gratis scan met de [website check](https://www.joepify.nl/website-apk#apk-modules) van Joepify. De check leest je certificaat uit, laat zien wanneer het verloopt en door wie het is uitgegeven, en kijkt of http netjes doorverwijst naar https. Wil je dat iemand je certificaten, updates en back-ups voor je bijhoudt, kijk dan bij WordPress onderhoud. Staat je site nog bij een oude webbouwer, dan helpt [website overnemen](https://www.joepify.nl/website-overnemen). Meer over goede hosting lees je in zakelijke hosting in Nederland. Controleer je certificaat daarnaast elke 30 dagen zolang automatisch verlengen nog niet aantoonbaar werkt.
 
-- Gratis tool[Check ook je vindbaarheid met de gratis SEO check](https://www.joepify.nl/gratis-seo-check)
-- Liever uitbesteden[Laat je certificaat en hosting bewaken met WordPress onderhoud](https://www.joepify.nl/wordpress-onderhoud)
 
 ---
 Bron: [SSL-certificaat verlopen? Zo los je het op](https://www.joepify.nl/kennisbank/ssl-certificaat-verlopen) · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.

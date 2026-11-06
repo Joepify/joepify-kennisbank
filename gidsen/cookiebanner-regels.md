@@ -89,8 +89,6 @@ De [website check](https://www.joepify.nl/website-apk#apk-modules) kijkt of er e
 
 Dit artikel is algemene informatie en geen juridisch advies.
 
-- Gratis tool[Check ook je vindbaarheid met de gratis SEO check](https://www.joepify.nl/gratis-seo-check)
-- Liever uitbesteden[Laat je WordPress-site bijhouden met WordPress onderhoud](https://www.joepify.nl/wordpress-onderhoud)
 
 ---
 Bron: [Cookiebanner regels 2026: wat de AP controleert](https://www.joepify.nl/kennisbank/cookiebanner-regels) · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.

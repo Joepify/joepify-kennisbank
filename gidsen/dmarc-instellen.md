@@ -82,7 +82,7 @@ DMARC is voor je webshop of nieuwsbrief alleen veilig als elke dienst je eigen d
 - **Nieuwsbriefdiensten** zoals Mailchimp, Klaviyo en Brevo willen dat je je domein verifieert. Zonder verificatie gaan je campagnes via hun domein, en in de DMARC-rapporten zie je dan "niet aligned".
 - **Boekhoud- en boekingssoftware** mailt soms namens je adres zonder dat je het weet. In fase 1 zie je zulke mail vanzelf in de rapporten.
 
-Daarom duurt fase 1 bij de meeste bedrijven twee tot vier weken: lang genoeg om elke maandelijkse factuurrun en nieuwsbrief een keer langs te zien komen. Verstuur je de nieuwsbrief liever niet zelf? Lees dan hoe [mailing uitbesteden](https://www.joepify.nl/blog/email-marketing-uitbesteden) werkt.
+Daarom duurt fase 1 bij de meeste bedrijven twee tot vier weken: lang genoeg om elke maandelijkse factuurrun en nieuwsbrief een keer langs te zien komen. Verstuur je de nieuwsbrief liever niet zelf? Lees dan hoe mailing uitbesteden werkt.
 
 ## Hoe bescherm je domeinen die niet mailen?
 
@@ -115,7 +115,6 @@ De controle of DMARC werkt, is een combinatie van een DNS-test en een testmail. 
 De website APK is een gratis scan van Joepify die in het onderdeel e-mail je MX-, SPF- en DMARC-records leest. Je start de scan via de [website check](https://www.joepify.nl/website-apk#apk-modules). De APK telt dubbele SPF-records en kijkt welk [DMARC-beleid](https://www.joepify.nl/onderzoek-webshops-2026) je hebt. Voor DKIM probeert de scan de bekende selectors van Microsoft 365 en Google. Gebruik je een andere dienst, dan kan DKIM als onbekend verschijnen terwijl het wel goed staat.
 
 - Gratis tool[Test je SPF, DKIM en DMARC met de gratis e-mail check](https://www.joepify.nl/email-check)
-- Liever uitbesteden[Mailt je WordPress-site niet goed? Bekijk WordPress onderhoud](https://www.joepify.nl/wordpress-onderhoud)
 
 ---
 Bron: [DMARC instellen in 3 stappen (Microsoft 365, Google)](https://www.joepify.nl/kennisbank/dmarc-instellen) · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.

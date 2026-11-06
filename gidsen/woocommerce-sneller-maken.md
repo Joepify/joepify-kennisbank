@@ -58,7 +58,7 @@ Waar u op let bij hosting voor een webshop:
 
 Een lastige maar belangrijke vraag is of de trage shop echt een hostingprobleem heeft of een softwareprobleem. Als de shop 's nachts snel is en overdag traag, wijst dat op een tekort aan serverkracht. Als hij altijd traag is, ook als er niemand op zit, ligt de oorzaak vaker in plugins of database. Een nieuwe, betere server lost een softwareprobleem alleen tijdelijk op: u betaalt dan meer voor hetzelfde probleem.
 
-Hoe hosting bij ons werkt en wat zakelijke hosting inhoudt, leest u in ons artikel over [zakelijke hosting in Nederland](https://www.joepify.nl/blog/zakelijke-hosting-nederland).
+Hoe hosting bij ons werkt en wat zakelijke hosting inhoudt, leest u in ons artikel over zakelijke hosting in Nederland.
 
 ## Plugins en thema: minder is bijna altijd sneller
 
@@ -144,7 +144,7 @@ Niet elke verbetering kost evenveel moeite en niet elke verbetering blijft werke
 - Cron op serverniveau laten draaien.
 - Een staging-omgeving en vast onderhoud, zodat de shop niet opnieuw langzaam wordt.
 
-Het laatste punt wordt vaak vergeten. Een shop die eenmalig wordt versneld, maar daarna niet wordt onderhouden, is na een jaar weer trager. Updates, controles op trage plugins en regelmatig opschonen horen bij een gezonde shop. Daarom bieden wij dit aan als onderdeel van [WordPress-onderhoud](https://www.joepify.nl/wordpress-onderhoud).
+Het laatste punt wordt vaak vergeten. Een shop die eenmalig wordt versneld, maar daarna niet wordt onderhouden, is na een jaar weer trager. Updates, controles op trage plugins en regelmatig opschonen horen bij een gezonde shop. Daarom bieden wij dit aan als onderdeel van WordPress-onderhoud.
 
 Wilt u eerst weten waar u staat? Een [website check](https://www.joepify.nl/website-apk) geeft een overzicht van snelheid, beveiliging, updates en technische gezondheid, met een lijst van wat als eerste moet gebeuren.
 
@@ -158,7 +158,7 @@ Soms is de eerlijke conclusie dat versnellen niet de beste route is. Dit zijn de
 - u de volledige controle over uw data en uw omgeving wilt houden;
 - de trage shop een duidelijke oorzaak heeft die oplosbaar is, zoals verouderde hosting of een paar zware plugins.
 
-In dat geval is een goede hostingomgeving, een opgeschoonde installatie en vast onderhoud meestal voldoende. Wilt u een nieuwe shop op deze basis, kijk dan naar onze aanpak voor het [laten maken van een WooCommerce-webshop](https://www.joepify.nl/woocommerce-webshop-laten-maken).
+In dat geval is een goede hostingomgeving, een opgeschoonde installatie en vast onderhoud meestal voldoende. Wilt u een nieuwe shop op deze basis, kijk dan naar onze aanpak voor het laten maken van een WooCommerce-webshop.
 
 ### Overweeg Shopify als
 
@@ -167,7 +167,7 @@ In dat geval is een goede hostingomgeving, een opgeschoonde installatie en vast 
 - u veel pieken hebt, bijvoorbeeld door acties of seizoenen;
 - u uw plugins steeds opnieuw moet bijwerken en dat steeds meer tijd kost.
 
-Bij Shopify zijn hosting, beveiliging en snelheid van het platform onderdeel van het abonnement. Daar staat tegenover dat u minder vrijheid hebt op het gebied van diepe aanpassing en dat u de kosten per maand en per app moet afwegen. Een eerlijke vergelijking vindt u in ons artikel [Shopify of WooCommerce](https://www.joepify.nl/blog/shopify-vs-woocommerce). Ervaring met een grote overstap hebben wij onder meer opgedaan bij Sneakers Enzo, waar wij een Magento-shop met meer dan 5.000 producten naar Shopify hebben gebracht.
+Bij Shopify zijn hosting, beveiliging en snelheid van het platform onderdeel van het abonnement. Daar staat tegenover dat u minder vrijheid hebt op het gebied van diepe aanpassing en dat u de kosten per maand en per app moet afwegen. Een eerlijke vergelijking vindt u in ons artikel Shopify of WooCommerce. Ervaring met een grote overstap hebben wij onder meer opgedaan bij Sneakers Enzo, waar wij een Magento-shop met meer dan 5.000 producten naar Shopify hebben gebracht.
 
 Besluit u te verhuizen, dan is een zorgvuldige migratie van producten, klanten, bestellingen en URL's belangrijk, zodat u geen positie in Google verliest. Hoe dat werkt, staat op onze pagina over [Shopify-migratie](https://www.joepify.nl/shopify-migratie).
 
@@ -187,4 +187,4 @@ Wij bouwen en onderhouden WooCommerce-shops, zoals voor Holland Machinery, een m
 Stuur ons de link naar uw shop via het formulier hieronder, of bel of app naar 06 87 19 50 43. U hoort binnen 24 uur wat wij zien en wat wij aanraden.
 
 ---
-Bron: [WooCommerce sneller maken: oorzaken en oplossingen](https://www.joepify.nl/blog/woocommerce-sneller-maken) · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.
+Bron: WooCommerce sneller maken: oorzaken en oplossingen · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.

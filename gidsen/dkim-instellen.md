@@ -32,7 +32,7 @@ Daarnaast is DKIM de sterkste basis voor DMARC. Een doorgestuurde mail faalt vaa
 
 ## DKIM instellen per dienst
 
-Begin met een lijstje van alles wat namens jouw domein mailt: je mailbox, je website of webshop, je nieuwsbrief en je boekhoudpakket. Elke dienst tekent met zijn eigen sleutel, dus elke dienst heeft zijn eigen DKIM-record nodig. Wil je je nieuwsbrief liever helemaal niet zelf regelen, dan kun je ook [e-mailmarketing uitbesteden](https://www.joepify.nl/blog/email-marketing-uitbesteden).
+Begin met een lijstje van alles wat namens jouw domein mailt: je mailbox, je website of webshop, je nieuwsbrief en je boekhoudpakket. Elke dienst tekent met zijn eigen sleutel, dus elke dienst heeft zijn eigen DKIM-record nodig. Wil je je nieuwsbrief liever helemaal niet zelf regelen, dan kun je ook e-mailmarketing uitbesteden.
 
 ### Microsoft 365
 
@@ -85,7 +85,6 @@ Eén eerlijke kanttekening: geen enkele DKIM check kan een selector raden die ee
 DKIM werkt het best samen met de andere twee. Met een [SPF record](https://www.joepify.nl/kennisbank/spf-record-instellen) geef je aan welke servers namens je domein mogen mailen. Met [DMARC](https://www.joepify.nl/kennisbank/dmarc-instellen) vertel je ontvangers wat ze moeten doen met mail die niet klopt, en krijg je rapporten over wie er namens jou mailt. In die rapporten zie je ook snel welke dienst nog niet met DKIM tekent. Wil je alle drie in één keer laten nalopen, doe dan de [e-mail check](https://www.joepify.nl/email-check).
 
 - Gratis tool[Doe een DKIM check met de gratis e-mail check](https://www.joepify.nl/email-check)
-- Liever uitbesteden[Mailt je WordPress-site niet goed? Bekijk WordPress onderhoud](https://www.joepify.nl/wordpress-onderhoud)
 
 ---
 Bron: [DKIM instellen en checken: zo werkt het](https://www.joepify.nl/kennisbank/dkim-instellen) · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.

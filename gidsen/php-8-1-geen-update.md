@@ -20,7 +20,7 @@ In het kort
 
 Je hoort over een kritiek lek in PHP, je zoekt de update op, en dan blijkt je site op PHP 8.1 of nog ouder te draaien. Je ziet geen nieuwe versie voor jouw PHP langskomen. Dat klopt, en het is precies het probleem van dit artikel.
 
-PHP2Shell is de verzamelnaam voor twee kritieke kwetsbaarheden in PHP zelf, waarmee een aanvaller zonder in te loggen code op je server kan uitvoeren. PHP bracht op 21 oktober 2026 patches uit. Maar die patches zijn er alleen voor de versies die PHP nog ondersteunt. De volledige uitleg staat in onze [hub over PHP2Shell](https://www.joepify.nl/blog/php2shell-php-lek). Hier kijken we naar wat je doet als je op een oude PHP-versie zit.
+PHP2Shell is de verzamelnaam voor twee kritieke kwetsbaarheden in PHP zelf, waarmee een aanvaller zonder in te loggen code op je server kan uitvoeren. PHP bracht op 21 oktober 2026 patches uit. Maar die patches zijn er alleen voor de versies die PHP nog ondersteunt. De volledige uitleg staat in onze hub over PHP2Shell. Hier kijken we naar wat je doet als je op een oude PHP-versie zit.
 
 ## Waarom er voor PHP 8.1 en ouder geen officiele fix is
 
@@ -75,8 +75,8 @@ Een versie-upgrade zelf is vaak een kleine ingreep, maar het testwerk eromheen b
 
 - **Gratis check:** je stuurt je websiteadres door, wij kijken welke PHP-versie draait en wat je host moet doen.
 - **Binnen 24 uur een vrijblijvend voorstel** met wat er nodig is en wat het kost.
-- **Spoed:** is je site al getroffen of loopt er iets vast, dan is er spoedhulp vanaf 79 euro, met geen fix geen kosten.
-- **Doorlopend:** wil je dit niet elke keer zelf, dan houdt een [onderhoudscontract vanaf 35 euro per maand](https://www.joepify.nl/wordpress-onderhoudscontract) je updates, back-ups en monitoring bij.
+- **Spoed:** is je site al getroffen of loopt er iets vast, dan is er spoedhulp vanaf 79 euro.
+- **Doorlopend:** wil je dit niet elke keer zelf, dan houdt een onderhoudscontract vanaf 35 euro per maand je updates, back-ups en monitoring bij.
 
 ## Je stappenplan voor een oude PHP-versie
 
@@ -87,7 +87,7 @@ Een versie-upgrade zelf is vaak een kleine ingreep, maar het testwerk eromheen b
 5. **Kun je nu niet updaten** en is de site een hoog risico, zet hem dan tijdelijk in onderhoudsmodus.
 6. **Twijfel je ergens over?** Laat ons gratis meekijken voordat je iets omzet.
 
-Zit je webshop op een oude versie, lees dan ook [PHP2Shell en je webshop](https://www.joepify.nl/blog/php2shell-webshop). Gebruik je WordPress, dan is [WordPress en PHP2Shell](https://www.joepify.nl/blog/php2shell-wordpress) de juiste start.
+Zit je webshop op een oude versie, lees dan ook PHP2Shell en je webshop. Gebruik je WordPress, dan is WordPress en PHP2Shell de juiste start.
 
 ---
-Bron: [PHP 8.1 of ouder? Geen officiële fix voor PHP2Shell](https://www.joepify.nl/blog/php-8-1-geen-update) · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.
+Bron: PHP 8.1 of ouder? Geen officiële fix voor PHP2Shell · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.

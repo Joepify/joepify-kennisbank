@@ -22,7 +22,7 @@ Je hebt je WordPress-site netjes bijgehouden. Automatische updates aan, een beve
 
 ## Wat PHP2Shell betekent voor WordPress
 
-PHP2Shell zijn twee kritieke lekken in PHP zelf, op 21 oktober 2026 gedicht in nieuwe PHP-versies. Een aanvaller heeft geen account op je site nodig. Onderzoekers van Wiz lieten een werkende aanval zien op een standaard WordPress-installatie. De volledige uitleg, tijdlijn en versietabel staan in ons hoofdartikel [PHP2Shell: kritiek lek in PHP](https://www.joepify.nl/blog/php2shell-php-lek).
+PHP2Shell zijn twee kritieke lekken in PHP zelf, op 21 oktober 2026 gedicht in nieuwe PHP-versies. Een aanvaller heeft geen account op je site nodig. Onderzoekers van Wiz lieten een werkende aanval zien op een standaard WordPress-installatie. De volledige uitleg, tijdlijn en versietabel staan in ons hoofdartikel PHP2Shell: kritiek lek in PHP.
 
 Voor jou als site-eigenaar komt het neer op één vraag: draait mijn hosting al een gepatchte PHP-versie?
 
@@ -50,7 +50,7 @@ Stuur me je websiteadres. Ik kijk gratis welke PHP-versie je WordPress-site draa
 3. Klik bovenaan op het tabblad **Info**.
 4. Open het blok **Server** en lees de regel PHP-versie.
 
-Staat daar 8.2.35, 8.3.36, 8.4.27, 8.5.12 of hoger in dezelfde reeks? Dan is PHP2Shell gedicht. Staat er een lager nummer, of 8.1 en ouder, dan moet er iets gebeuren. Voor die oude versies is er geen gewone update, lees daarvoor [PHP 8.1 of ouder](https://www.joepify.nl/blog/php-8-1-geen-update). Hoe je zonder kapotte plugins overstapt naar een nieuwere versie, lees je in [PHP-versie van WordPress updaten](https://www.joepify.nl/kennisbank/php-versie-wordpress).
+Staat daar 8.2.35, 8.3.36, 8.4.27, 8.5.12 of hoger in dezelfde reeks? Dan is PHP2Shell gedicht. Staat er een lager nummer, of 8.1 en ouder, dan moet er iets gebeuren. Voor die oude versies is er geen gewone update, lees daarvoor PHP 8.1 of ouder. Hoe je zonder kapotte plugins overstapt naar een nieuwere versie, lees je in [PHP-versie van WordPress updaten](https://www.joepify.nl/kennisbank/php-versie-wordpress).
 
 Kom je niet in wp-admin? De gratis [WordPress check](https://www.joepify.nl/wordpress-check) laat van buitenaf zien of je PHP-versie nog updates krijgt, als je server die versie meestuurt.
 
@@ -63,13 +63,13 @@ Op gedeelde hosting, zoals bij de meeste mkb-sites, kun je PHP niet zelf patchen
 - Ik draai PHP 8.1 of ouder: leveren jullie een backport, of moet ik overstappen?
 - Hebben jullie op mijn account vreemde activiteit gezien sinds 20 oktober?
 
-Krijg je geen helder antwoord, of blijft je host op een oude versie hangen, dan is [verhuizen naar andere hosting](https://www.joepify.nl/blog/website-verhuizen-andere-hosting) een serieuze optie.
+Krijg je geen helder antwoord, of blijft je host op een oude versie hangen, dan is verhuizen naar andere hosting een serieuze optie.
 
 ## Draai je WordPress op een eigen server of VPS?
 
 Dan ben jij, of je developer, zelf verantwoordelijk. Installeer de gepatchte PHP-pakketten van je distributie of leverancier en herstart daarna PHP-FPM of Apache. Zonder herstart blijven de oude workers met de kwetsbare code draaien. Controleer na afloop in Sitediagnose of de nieuwe versie zichtbaar is.
 
-Lukt patchen vandaag niet, dan zijn er tijdelijke instellingen die het risico verkleinen, zoals `session.upload_progress.enabled=0` in php.ini. Die staan in het [hoofdartikel](https://www.joepify.nl/blog/php2shell-php-lek). Ze maken je server niet veilig, ze kopen alleen tijd. Draait er een webshop op dezelfde server, lees dan ook [PHP2Shell en je webshop](https://www.joepify.nl/blog/php2shell-webshop).
+Lukt patchen vandaag niet, dan zijn er tijdelijke instellingen die het risico verkleinen, zoals `session.upload_progress.enabled=0` in php.ini. Die staan in het hoofdartikel. Ze maken je server niet veilig, ze kopen alleen tijd. Draait er een webshop op dezelfde server, lees dan ook PHP2Shell en je webshop.
 
 ## Nazorg: wachtwoorden, sleutels en back-ups
 
@@ -84,9 +84,9 @@ Zet ook een recente back-up apart van vóór 20 oktober, buiten je hosting. Moch
 
 ## Wanneer bel je spoedhulp?
 
-Zie je onbekende beheerders, bestanden die je niet kent, doorsturingen naar vreemde sites of spam in Google? Dan is updaten niet meer genoeg en moet de site worden schoongemaakt. De signalen staan in [website gehackt: de signalen](https://www.joepify.nl/blog/website-gehackt-signalen). Voor WordPress lees je wat je meteen doet in [WordPress gehackt? Spoedhulp](https://www.joepify.nl/blog/wordpress-gehackt-spoedhulp).
+Zie je onbekende beheerders, bestanden die je niet kent, doorsturingen naar vreemde sites of spam in Google? Dan is updaten niet meer genoeg en moet de site worden schoongemaakt. De signalen staan in website gehackt: de signalen. Voor WordPress lees je wat je meteen doet in [WordPress gehackt? Spoedhulp](https://www.joepify.nl/blog/wordpress-gehackt-spoedhulp).
 
-Wil je het niet zelf doen, dan is er [WordPress spoedhulp](https://www.joepify.nl/wordpress-problemen-oplossen): vanaf €79, reactie binnen 2 uur, en geen fix, geen kosten. Wil je dit soort updates voortaan niet meer zelf volgen? Met een [onderhoudscontract vanaf €35 per maand](https://www.joepify.nl/wordpress-onderhoudscontract) houd ik WordPress, plugins en PHP bij, met een back-up vóór elke update.
+Wil je het niet zelf doen, dan is er [WordPress spoedhulp](https://www.joepify.nl/wordpress-problemen-oplossen): vanaf €79. Wil je dit soort updates voortaan niet meer zelf volgen? Met een onderhoudscontract vanaf €35 per maand houd ik WordPress, plugins en PHP bij, met een back-up vóór elke update.
 
 ---
-Bron: [WordPress en PHP2Shell: loopt jouw site risico?](https://www.joepify.nl/blog/php2shell-wordpress) · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.
+Bron: WordPress en PHP2Shell: loopt jouw site risico? · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.

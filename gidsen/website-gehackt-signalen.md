@@ -20,7 +20,7 @@ In het kort
 
 Je site doet iets vreemds en je vraagt je af: is mijn website gehackt? Sinds 21 oktober 2026 zijn er twee kritieke lekken in PHP zelf bekend, **PHP2Shell**. Een aanvaller hoeft er niet voor in te loggen. Er wordt al actief naar kwetsbare servers gezocht.
 
-Dit artikel gaat over het herkennen en afhandelen van een hack, voor elke PHP-site. Wat het lek precies is lees je in [ons overzicht over PHP2Shell](https://www.joepify.nl/blog/php2shell-php-lek).
+Dit artikel gaat over het herkennen en afhandelen van een hack, voor elke PHP-site. Wat het lek precies is lees je in ons overzicht over PHP2Shell.
 
 ## Is mijn website gehackt? Zo herken je het
 
@@ -52,7 +52,7 @@ Volgorde telt. Wie meteen wachtwoorden wijzigt op een nog kwetsbare server, geef
 1. **Haal de site van het net.** Onderhoudsmodus, of een tijdelijke blokkade op serverniveau. Zo stopt schade aan bezoekers.
 2. **Maak een kopie van de huidige staat.** Bestanden en database, gehackt of niet. Je hebt die later nodig om te zien hoe de aanvaller binnenkwam.
 3. **Vraag logbestanden op** bij je hostingbedrijf: toegangslogs, foutlogs en PHP-logs, over de afgelopen dagen.
-4. **Laat PHP bijwerken.** Gepatchte versies zijn 8.5.12, 8.4.27, 8.3.36 en 8.2.35. Heb je PHP 8.1 of ouder, vraag dan naar een backport of een upgrade. Meer daarover staat in [PHP 8.1 of ouder: geen officiële fix](https://www.joepify.nl/blog/php-8-1-geen-update).
+4. **Laat PHP bijwerken.** Gepatchte versies zijn 8.5.12, 8.4.27, 8.3.36 en 8.2.35. Heb je PHP 8.1 of ouder, vraag dan naar een backport of een upgrade. Meer daarover staat in PHP 8.1 of ouder: geen officiële fix.
 5. **Vernieuw daarna alle toegang.** Zie het volgende onderdeel.
 6. **Noteer wat je ziet,** met tijdstippen. Dat helpt bij de keuze tussen opschonen en herstellen.
 
@@ -104,7 +104,7 @@ Alleen updaten is de volledige oplossing voor PHP2Shell. Tijdelijke instellingen
 
 - Weet welke PHP-versie je draait en wie die bijwerkt.
 - Houd een externe back-up aan die je regelmatig terugzet in een test.
-- Laat updates en monitoring door iemand bewaken. Dat kan met een [WordPress onderhoudscontract](https://www.joepify.nl/wordpress-onderhoudscontract) vanaf €35 per maand.
+- Laat updates en monitoring door iemand bewaken. Dat kan met een WordPress onderhoudscontract vanaf €35 per maand.
 - Vermijd onofficiële fix-plugins of snippets die beloven PHP2Shell te verhelpen.
 
 ## Bronnen
@@ -114,7 +114,7 @@ Alleen updaten is de volledige oplossing voor PHP2Shell. Tijdelijke instellingen
 - [Patchstack, PHP major vulnerability alert](https://patchstack.com/articles/php-major-vulnerability-alert-10-2026/)
 - [Sansec, onderzoek naar PHP2Shell](https://sansec.io/research/php2shell)
 
-Heb je een webshop? Lees dan ook [PHP2Shell en je webshop](https://www.joepify.nl/blog/php2shell-webshop), en voor WordPress [loopt jouw site risico?](https://www.joepify.nl/blog/php2shell-wordpress)
+Heb je een webshop? Lees dan ook PHP2Shell en je webshop, en voor WordPress loopt jouw site risico?
 
 ---
-Bron: [Website gehackt? Signalen na PHP2Shell en wat je doet](https://www.joepify.nl/blog/website-gehackt-signalen) · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.
+Bron: Website gehackt? Signalen na PHP2Shell en wat je doet · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.

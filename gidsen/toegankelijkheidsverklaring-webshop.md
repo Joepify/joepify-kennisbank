@@ -20,7 +20,7 @@ De regels komen uit de European Accessibility Act (EAA). De [ACM legt uit](https
 - **Wel verplicht:** je hebt 10 of meer mensen in dienst, of je jaaromzet is meer dan 2 miljoen euro, of allebei.
 - **Niet verplicht:** je bent een micro-onderneming, met minder dan 10 mensen in dienst *en* maximaal 2 miljoen euro jaaromzet.
 
-Ben je een micro-onderneming, dan hoef je niets. Een korte verklaring kan nog steeds handig zijn voor klanten met een beperking, maar het is geen plicht. Twijfel je of de EAA voor jou geldt, lees dan eerst het blog over de [European Accessibility Act voor webshops](https://www.joepify.nl/blog/european-accessibility-act-webshop).
+Ben je een micro-onderneming, dan hoef je niets. Een korte verklaring kan nog steeds handig zijn voor klanten met een beperking, maar het is geen plicht. Twijfel je of de EAA voor jou geldt, lees dan eerst het blog over de European Accessibility Act voor webshops.
 
 ## Wat moet erin staan?
 
@@ -77,8 +77,6 @@ De [website check](https://www.joepify.nl/website-apk#apk-modules) zoekt op je h
 
 Dit artikel is algemene informatie en geen juridisch advies. Twijfel je over jouw situatie, vraag het je branchevereniging of een jurist.
 
-- Gratis tool[Check ook je vindbaarheid met de gratis SEO check](https://www.joepify.nl/gratis-seo-check)
-- Liever uitbesteden[Laat je site bijhouden met WordPress onderhoud](https://www.joepify.nl/wordpress-onderhoud)
 
 ---
 Bron: [Toegankelijkheidsverklaring webshop + voorbeeld](https://www.joepify.nl/kennisbank/toegankelijkheidsverklaring-webshop) · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.

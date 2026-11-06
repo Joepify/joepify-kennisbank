@@ -11,7 +11,7 @@ license: CC BY 4.0
 > Origineel en altijd actueel: https://www.joepify.nl/kennisbank/php-versie-wordpress  
 > Bijgewerkt: 2026-10-22 · Auteur: Ayoub Assaidi, [Joepify](https://www.joepify.nl) (Rotterdam)
 
-**Actueel (22 oktober 2026):** voor PHP2Shell, een kritiek lek in PHP, zijn alleen PHP 8.2.35, 8.3.36, 8.4.27 en 8.5.12 gepatcht. Check dus niet alleen je versie, maar ook of je host al heeft bijgewerkt. [Lees wat je nu moet doen](https://www.joepify.nl/blog/php2shell-php-lek)
+**Actueel (22 oktober 2026):** voor PHP2Shell, een kritiek lek in PHP, zijn alleen PHP 8.2.35, 8.3.36, 8.4.27 en 8.5.12 gepatcht. Check dus niet alleen je versie, maar ook of je host al heeft bijgewerkt. Lees wat je nu moet doen
 
 **Kort antwoord:** PHP 8.2 krijgt na 31 december 2026 geen beveiligingsupdates meer. Versies 8.1 en ouder krijgen die al niet meer. WordPress raadt PHP 8.3 of hoger aan, en WooCommerce 11.6 (gepland voor februari 2027) werkt niet meer op PHP 7.4 en 8.0. Je ziet je versie in WordPress onder Hulpmiddelen > Sitediagnose > Info > Server. Update op een testomgeving, controleer je plugins en zet dan pas je live site over.
 
@@ -77,7 +77,7 @@ De drie problemen die na een PHP-update van WordPress het vaakst voorkomen, zijn
 
 - **Een wit scherm of "Er is een kritieke fout op deze website".** Meestal een verouderde plugin. WordPress stuurt dan vaak een mail naar het beheerdersadres met de naam van de plugin.
 - **Waarschuwingen bovenaan de pagina.** Dat zijn vaak "deprecated"-meldingen. Ze zijn niet direct gevaarlijk, maar horen niet zichtbaar te zijn voor bezoekers. Zet het tonen van fouten uit en los ze daarna op.
-- **De host biedt geen nieuwe versie.** Dan is het tijd om te verhuizen. Lees [website verhuizen naar andere hosting](https://www.joepify.nl/blog/website-verhuizen-andere-hosting).
+- **De host biedt geen nieuwe versie.** Dan is het tijd om te verhuizen. Lees website verhuizen naar andere hosting.
 
 Een kritieke fout na een PHP-update is bijna altijd terug te draaien. Zet eerst de vorige PHP-versie terug in je hostingpaneel. Werk daarna de plugin uit de foutmail bij of vervang hem, en probeer de overstap opnieuw op staging.
 
@@ -87,10 +87,8 @@ De PHP-versie van een WordPress-site update je ongeveer eens per twee jaar. Volg
 
 ## Zo controleer je de PHP-versie van je site
 
-De gratis Website APK van Joepify controleert de PHP-versie van je site van buitenaf. Het onderdeel platform van de [website check](https://www.joepify.nl/website-apk#apk-modules) leest de PHP-versie als je server die meestuurt, en laat zien of die nog beveiligingsupdates krijgt. Ziet de APK geen versie, dan is dat goed nieuws voor je beveiliging, maar check hem dan zelf via Sitediagnose. Wil je de update niet zelf doen, of wil je dat iemand je plugins elke maand bijhoudt, kijk dan bij [WordPress onderhoud](https://www.joepify.nl/wordpress-onderhoud). Zie ook de guides over [beveiligingsheaders](https://www.joepify.nl/kennisbank/beveiligingsheaders-website) en een [verlopen SSL-certificaat](https://www.joepify.nl/kennisbank/ssl-certificaat-verlopen).
+De gratis Website APK van Joepify controleert de PHP-versie van je site van buitenaf. Het onderdeel platform van de [website check](https://www.joepify.nl/website-apk#apk-modules) leest de PHP-versie als je server die meestuurt, en laat zien of die nog beveiligingsupdates krijgt. Ziet de APK geen versie, dan is dat goed nieuws voor je beveiliging, maar check hem dan zelf via Sitediagnose. Wil je de update niet zelf doen, of wil je dat iemand je plugins elke maand bijhoudt, kijk dan bij WordPress onderhoud. Zie ook de guides over [beveiligingsheaders](https://www.joepify.nl/kennisbank/beveiligingsheaders-website) en een [verlopen SSL-certificaat](https://www.joepify.nl/kennisbank/ssl-certificaat-verlopen).
 
-- Gratis tool[Check ook je vindbaarheid met de gratis SEO check](https://www.joepify.nl/gratis-seo-check)
-- Liever uitbesteden[Laat PHP en plugins bijhouden met WordPress onderhoud](https://www.joepify.nl/wordpress-onderhoud)
 
 ---
 Bron: [PHP-versie WordPress updaten: zo doe je het veilig](https://www.joepify.nl/kennisbank/php-versie-wordpress) · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.

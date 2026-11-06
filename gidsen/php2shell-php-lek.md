@@ -20,7 +20,7 @@ In het kort
 
 Op 21 oktober 2026 zette php.net een ongewoon duidelijke melding op de voorpagina: kritieke lekken waarmee code op afstand kan worden uitgevoerd, update nu. Dat raakt bijna iedereen met een website. PHP draait volgens W3Techs op ongeveer 69% van de websites waarvan de servertaal bekend is.
 
-Op deze pagina lees je rustig wat er aan de hand is, of jouw site geraakt wordt en wat je vandaag doet. Voor specifieke situaties zijn er aparte artikelen over [WordPress](https://www.joepify.nl/blog/php2shell-wordpress), [webshops](https://www.joepify.nl/blog/php2shell-webshop), [PHP 8.1 en ouder](https://www.joepify.nl/blog/php-8-1-geen-update) en [signalen van een hack](https://www.joepify.nl/blog/website-gehackt-signalen).
+Op deze pagina lees je rustig wat er aan de hand is, of jouw site geraakt wordt en wat je vandaag doet. Voor specifieke situaties zijn er aparte artikelen over WordPress, webshops, PHP 8.1 en ouder en signalen van een hack.
 
 ## Wat is PHP2Shell?
 
@@ -64,7 +64,7 @@ Heb je een webshop op **Shopify**? Dan draai je zelf geen PHP-server. Dit lek ga
 | PHP 7.4, 8.0, 8.1 | Geen officiële release, alleen een minimale backport in de broncode | Backport via je host of leverancier, of overstappen naar 8.3 of 8.4 | 
 | PHP 5.4 tot en met 7.3 | End-of-life, geen fix van PHP | Zo snel mogelijk overstappen | 
 
-Zit je op 8.1 of ouder, lees dan [PHP 8.1 of ouder: geen officiële fix](https://www.joepify.nl/blog/php-8-1-geen-update). Hoe je veilig naar een nieuwere versie gaat, staat in de kennisbank bij [PHP-versie van WordPress updaten](https://www.joepify.nl/kennisbank/php-versie-wordpress).
+Zit je op 8.1 of ouder, lees dan PHP 8.1 of ouder: geen officiële fix. Hoe je veilig naar een nieuwere versie gaat, staat in de kennisbank bij [PHP-versie van WordPress updaten](https://www.joepify.nl/kennisbank/php-versie-wordpress).
 
 ## Stappenplan: dit doe je vandaag
 
@@ -72,7 +72,7 @@ Zit je op 8.1 of ouder, lees dan [PHP 8.1 of ouder: geen officiële fix](https:/
 2. **Check per site de PHP-versie.** In je hostingpaneel, of in WordPress onder Gereedschap > Sitediagnose > Info > Server. Onze gratis [WordPress check](https://www.joepify.nl/wordpress-check) toont de PHP-versie als je server die meestuurt.
 3. **Laat patchen.** Op gedeelde hosting kun je PHP niet zelf updaten. Vraag je host of de versies van 21 oktober zijn geïnstalleerd en kies in je paneel een ondersteunde versie. Heb je een eigen server, installeer dan zelf de nieuwe pakketten en herstart PHP-FPM of Apache.
 4. **Kan het niet direct?** Is je site belangrijk of gevoelig en lukt patchen vandaag niet, zet de site dan tijdelijk in onderhoudsmodus of offline. Installeer geen onofficiële fix-plugins of snippets.
-5. **Zie je signalen van misbruik?** Behandel de server dan als gecompromitteerd. Vervang je database-wachtwoord, API-sleutels en mailwachtwoorden, want die kunnen uit het geheugen zijn gelekt. Wat je verder doet, lees je in [website gehackt: signalen en eerste stappen](https://www.joepify.nl/blog/website-gehackt-signalen).
+5. **Zie je signalen van misbruik?** Behandel de server dan als gecompromitteerd. Vervang je database-wachtwoord, API-sleutels en mailwachtwoorden, want die kunnen uit het geheugen zijn gelekt. Wat je verder doet, lees je in website gehackt: signalen en eerste stappen.
 
 ## Tijdelijke maatregelen voor hosts en developers
 
@@ -87,7 +87,7 @@ Wiz noemt een paar aanwijzingen dat iemand je server probeert: ongewone multipar
 
 ## Wat ik voor je kan doen
 
-Je hoeft dit niet alleen uit te zoeken. Stuur je websiteadres en ik kijk gratis welke PHP-versie draait en wat je host moet regelen. Heb je vandaag hulp nodig, dan is er [spoedhulp vanaf €79](https://www.joepify.nl/wordpress-problemen-oplossen) met reactie binnen 2 uur. Wil je dit soort updates voortaan niet meer zelf bijhouden, kijk dan naar een [onderhoudscontract vanaf €35 per maand](https://www.joepify.nl/wordpress-onderhoudscontract). Twijfel je over een oude webshop, dan is een [overstap naar Shopify](https://www.joepify.nl/shopify-migratie) ook een optie, omdat je dan zelf geen PHP-server beheert.
+Je hoeft dit niet alleen uit te zoeken. Stuur je websiteadres en ik kijk gratis welke PHP-versie draait en wat je host moet regelen. Heb je vandaag hulp nodig, dan is er [spoedhulp vanaf €79](https://www.joepify.nl/wordpress-problemen-oplossen). Wil je dit soort updates voortaan niet meer zelf bijhouden, kijk dan naar een onderhoudscontract vanaf €35 per maand. Twijfel je over een oude webshop, dan is een [overstap naar Shopify](https://www.joepify.nl/shopify-migratie) ook een optie, omdat je dan zelf geen PHP-server beheert.
 
 ---
-Bron: [PHP2Shell: kritiek lek in PHP, dit moet je nu doen](https://www.joepify.nl/blog/php2shell-php-lek) · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.
+Bron: PHP2Shell: kritiek lek in PHP, dit moet je nu doen · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.

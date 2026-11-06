@@ -20,7 +20,7 @@ In het kort
 
 Een webshop is geen gewone website. Er lopen betalingen doorheen, er staan klantgegevens in en hij moet dag en nacht open zijn. Juist daarom raakt een lek als PHP2Shell een shop harder dan een brochuresite. Een aanvaller die binnenkomt, komt bij veel meer dan een paar pagina's.
 
-PHP2Shell is de verzamelnaam voor twee kritieke kwetsbaarheden in PHP, de taal waarin WooCommerce en Magento draaien. Een aanvaller kan er zonder account code mee uitvoeren op je server. PHP bracht op 21 oktober 2026 patches uit voor de ondersteunde versies. De volledige uitleg staat in onze [hub over PHP2Shell](https://www.joepify.nl/blog/php2shell-php-lek). Hier kijken we naar wat dit voor jouw webshop betekent.
+PHP2Shell is de verzamelnaam voor twee kritieke kwetsbaarheden in PHP, de taal waarin WooCommerce en Magento draaien. Een aanvaller kan er zonder account code mee uitvoeren op je server. PHP bracht op 21 oktober 2026 patches uit voor de ondersteunde versies. De volledige uitleg staat in onze hub over PHP2Shell. Hier kijken we naar wat dit voor jouw webshop betekent.
 
 ## Waarom PHP2Shell juist voor webshops gevaarlijk is
 
@@ -32,7 +32,7 @@ Voor een shop telt bovendien wat er te halen valt. In en rond je shop staan klan
 
 WooCommerce is een plugin op WordPress, en WordPress draait op PHP. Onderzoekers demonstreerden pre-auth code-uitvoering tegen actuele WordPress-omgevingen. Dus ja, een WooCommerce-shop op een niet-gepatchte PHP-versie is kwetsbaar, hoe netjes je plugins ook bijgewerkt zijn.
 
-Wat je doet: controleer je PHP-versie via Gereedschap, dan Sitediagnose, dan Info, dan Server. Vraag je host of de PHP2Shell-patch is geinstalleerd. Zit je op PHP 8.1 of ouder, dan is er geen gewone fix en moet je upgraden; dat leggen we uit in [PHP 8.1 of ouder, geen officiele fix](https://www.joepify.nl/blog/php-8-1-geen-update). Een bredere uitleg voor WordPress staat in [WordPress en PHP2Shell](https://www.joepify.nl/blog/php2shell-wordpress).
+Wat je doet: controleer je PHP-versie via Gereedschap, dan Sitediagnose, dan Info, dan Server. Vraag je host of de PHP2Shell-patch is geinstalleerd. Zit je op PHP 8.1 of ouder, dan is er geen gewone fix en moet je upgraden; dat leggen we uit in PHP 8.1 of ouder, geen officiele fix. Een bredere uitleg voor WordPress staat in WordPress en PHP2Shell.
 
 Geen tijd om dit zelf uit te zoeken?
 
@@ -54,7 +54,7 @@ Draai je nog Magento 1, dan is er een extra probleem. Magento 1 wordt sinds 30 j
 4. **Zie je tekenen van misbruik,** roteer dan je wachtwoorden en sleutels: database, betaal- en verzendkoppelingen, mail en beheerdersaccounts. Omdat geheugen kan uitlekken, is dat een verstandige voorzorg.
 5. **Let op signalen** zoals onverklaarbare 500-fouten, vreemde of heel grote sessiecookies en PHP-processen die blijven herstarten. Dat is geen bewijs, wel reden om goed te kijken.
 
-Vermoed je dat er al iets mis is? Lees dan [Website gehackt? Signalen na PHP2Shell](https://www.joepify.nl/blog/website-gehackt-signalen) en handel snel.
+Vermoed je dat er al iets mis is? Lees dan Website gehackt? Signalen na PHP2Shell en handel snel.
 
 ## De strategische optie: een gehost platform
 
@@ -68,8 +68,8 @@ Je hoeft dit niet alleen uit te zoeken. Zo pakken we het aan:
 
 - **Gratis check:** je stuurt je websiteadres door, wij kijken welke PHP-versie je shop draait en wat er moet gebeuren.
 - **Binnen 24 uur een vrijblijvend voorstel** met de stappen en de kosten.
-- **Spoed:** is er iets misgegaan met je shop, dan is er spoedhulp vanaf 79 euro, met geen fix geen kosten.
+- **Spoed:** is er iets misgegaan met je shop, dan is er spoedhulp vanaf 79 euro.
 - **Strategisch:** wil je van het serveronderhoud af, dan bekijken we samen of een [migratie naar Shopify](https://www.joepify.nl/shopify-migratie) bij je past.
 
 ---
-Bron: [PHP2Shell en je webshop: WooCommerce en Magento](https://www.joepify.nl/blog/php2shell-webshop) · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.
+Bron: PHP2Shell en je webshop: WooCommerce en Magento · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.

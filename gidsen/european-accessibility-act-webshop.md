@@ -87,7 +87,7 @@ Deze checks vervangen geen volledige toets aan WCAG, maar laten wel snel zien wa
 
 ## Hulp bij een toegankelijke webshop
 
-Ik controleer webshops op de punten hierboven en de rest van WCAG, en ik los de problemen ook op: in het thema, in apps en in de content. Daarna helpt een vaste werkwijze om het zo te houden. Wilt u weten waar uw webshop staat? [Vraag een toegankelijkheidscheck aan](https://www.joepify.nl/?p=website&src=blog-european-accessibility-act-webshop&m=Ik%20wil%20weten%20of%20mijn%20webshop%20moet%20voldoen%20aan%20de%20European%20Accessibility%20Act%20en%20wat%20ik%20moet%20aanpassen.#contact), en u krijgt binnen 24 uur een vrijblijvend voorstel. Meer over deze dienst leest u bij [toegankelijkheid](https://www.joepify.nl/diensten#toegankelijkheid). Een goede gebruikservaring en toegankelijkheid gaan hand in hand, lees daarom ook [UI/UX design laten maken](https://www.joepify.nl/blog/ui-ux-design-laten-maken).
+Ik controleer webshops op de punten hierboven en de rest van WCAG, en ik los de problemen ook op: in het thema, in apps en in de content. Daarna helpt een vaste werkwijze om het zo te houden. Wilt u weten waar uw webshop staat? [Vraag een toegankelijkheidscheck aan](https://www.joepify.nl/?p=website&src=blog-european-accessibility-act-webshop&m=Ik%20wil%20weten%20of%20mijn%20webshop%20moet%20voldoen%20aan%20de%20European%20Accessibility%20Act%20en%20wat%20ik%20moet%20aanpassen.#contact), en u krijgt binnen 24 uur een vrijblijvend voorstel. Meer over deze dienst leest u bij toegankelijkheid. Een goede gebruikservaring en toegankelijkheid gaan hand in hand, lees daarom ook UI/UX design laten maken.
 
 ---
-Bron: [European Accessibility Act: wat moet uw webshop?](https://www.joepify.nl/blog/european-accessibility-act-webshop) · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.
+Bron: European Accessibility Act: wat moet uw webshop? · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.

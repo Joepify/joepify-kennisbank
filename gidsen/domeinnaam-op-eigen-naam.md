@@ -42,7 +42,7 @@ Wat je niet van buiten ziet, is wie de houder is. Dat weet je pas zeker als:
 1. **Maak de inventaris.** Draai de [website check](https://www.joepify.nl/website-apk#apk-modules) en noteer registrar, DNS-beheerder, hosting en mailprovider.
 2. **Stuur je webbouwer een vriendelijke, concrete mail.** Vraag om: (a) een houderwijziging van het domein naar je bedrijfsnaam en KvK-nummer, (b) de verhuiscode als je naar een eigen registrar wilt, (c) een eigen beheerdersaccount op de website en de hosting, (d) de licentiesleutels of overdracht van premium thema's en plugins, (e) overdracht van Google-accounts naar jouw e-mailadres. Noem een redelijke termijn, bijvoorbeeld twee weken.
 3. **Maak een account bij een registrar** op naam van je bedrijf als je het domein wilt verhuizen. Met de verhuiscode start je daar de verhuizing.
-4. **Neem de DNS-records over** voordat je iets omzet. Vooral de MX-, SPF-, DKIM- en DMARC-records voor je mail. Dit is de stap die het vaakst misgaat, zie ook [website verhuizen naar andere hosting](https://www.joepify.nl/blog/website-verhuizen-andere-hosting).
+4. **Neem de DNS-records over** voordat je iets omzet. Vooral de MX-, SPF-, DKIM- en DMARC-records voor je mail. Dit is de stap die het vaakst misgaat, zie ook website verhuizen naar andere hosting.
 5. **Controleer na de verhuizing** of je website, je contactformulier en je mail nog werken, en of je SSL-certificaat geldig is.
 6. **Bewaar alles** in een wachtwoordbeheerder, met tweestapsverificatie, op een e-mailadres van je eigen domein of een vast bedrijfsadres.
 
@@ -72,7 +72,7 @@ Kom je er samen niet uit, dan kan ik het overnemen. Hoe dat werkt staat op [webs
 
 ## Voorkomen is makkelijker
 
-Laat je een nieuwe website maken, spreek dan vooraf af dat het domein en de hosting op naam van jouw bedrijf komen, dat jij een eigen beheerdersaccount krijgt en dat licenties overdraagbaar zijn. Een goede webbouwer vindt dat normaal. Twijfel je bij het kiezen, lees dan [waar je op let bij het kiezen van een webdesigner](https://www.joepify.nl/blog/webdesigner-kiezen).
+Laat je een nieuwe website maken, spreek dan vooraf af dat het domein en de hosting op naam van jouw bedrijf komen, dat jij een eigen beheerdersaccount krijgt en dat licenties overdraagbaar zijn. Een goede webbouwer vindt dat normaal. Twijfel je bij het kiezen, lees dan waar je op let bij het kiezen van een webdesigner.
 
 ## Wat de website APK hierbij checkt
 

@@ -21,7 +21,7 @@ Pak je telefoon en een laptop, en open je site in een privévenster, zodat je he
 
 ### 1. Titels en beschrijvingen in Google
 
-Zoek je bedrijfsnaam en je belangrijkste dienst op in Google. Is de blauwe titel duidelijk, staat je plaats of dienst erin en is de tekst eronder niet afgekapt of generiek? Elke pagina hoort een eigen titel en beschrijving te hebben. De [gratis SEO check](https://www.joepify.nl/gratis-seo-check) laat per pagina zien wat er mist. APK-onderdeel: vindbaarheid.
+Zoek je bedrijfsnaam en je belangrijkste dienst op in Google. Is de blauwe titel duidelijk, staat je plaats of dienst erin en is de tekst eronder niet afgekapt of generiek? Elke pagina hoort een eigen titel en beschrijving te hebben. De gratis SEO check laat per pagina zien wat er mist. APK-onderdeel: vindbaarheid.
 
 ### 2. Staat je site überhaupt in Google?
 
@@ -69,7 +69,7 @@ Weet je bij welke partij je domeinnaam staat, waar je DNS en hosting draaien en 
 
 ## Zo controleer je het in één keer
 
-Twaalf punten met de hand nalopen kost al snel een middag. De gratis [Website check](https://www.joepify.nl/website-apk) keurt ze tegelijk: vul je adres in en binnen een minuut zie je per onderdeel wat goed is, wat aandacht nodig heeft en hoe je het oplost voor jouw platform. Wil je één onderdeel dieper bekijken, gebruik dan de [gratis SEO check](https://www.joepify.nl/gratis-seo-check) voor vindbaarheid of de [e-mail check](https://www.joepify.nl/email-check) voor je mail. Ook [internet.nl](https://internet.nl/) van de overheid test je site en mail op moderne standaarden.
+Twaalf punten met de hand nalopen kost al snel een middag. De gratis [Website check](https://www.joepify.nl/website-apk) keurt ze tegelijk: vul je adres in en binnen een minuut zie je per onderdeel wat goed is, wat aandacht nodig heeft en hoe je het oplost voor jouw platform. Wil je één onderdeel dieper bekijken, gebruik dan de gratis SEO check voor vindbaarheid of de [e-mail check](https://www.joepify.nl/email-check) voor je mail. Ook [internet.nl](https://internet.nl/) van de overheid test je site en mail op moderne standaarden.
 
 ## Website testen: wat een tool niet ziet
 
@@ -82,8 +82,6 @@ Een automatische website check kijkt van buitenaf. Een paar dingen moet je zelf 
 
 Doe deze controle minstens een keer per jaar, en altijd na een verhuizing, een nieuwe versie van je site of een wissel van webbouwer.
 
-- Gratis tool[Check je vindbaarheid met de gratis SEO check](https://www.joepify.nl/gratis-seo-check)
-- Liever uitbesteden[Laat je site bijhouden met WordPress onderhoud](https://www.joepify.nl/wordpress-onderhoud)
 
 ---
 Bron: [Website controleren: checklist in 12 punten](https://www.joepify.nl/kennisbank/website-controleren) · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.

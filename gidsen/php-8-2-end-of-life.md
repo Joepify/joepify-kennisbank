@@ -24,7 +24,7 @@ Op 22 oktober 2026 worden volgens [php.net](https://www.php.net/supported-versio
 
 Al end of life volgens de [EOL-pagina van php.net](https://www.php.net/eol.php): PHP 8.1 (31 december 2025), PHP 8.0 (26 november 2023) en PHP 7.4 (28 november 2022). Draait je WordPress-site op een van die versies, dan krijgt PHP op je server nu al geen enkele fix meer.
 
-Veilig tegen het PHP2Shell-lek zijn volgens [php.net](https://www.php.net/) alleen de releases van 21 oktober 2026: PHP 8.5.12, 8.4.27, 8.3.36 en 8.2.35. Elke oudere patchversie binnen die reeksen is kwetsbaar, net als PHP 8.1 en ouder, waarvoor geen officiële release meer komt. Kijk dus niet alleen of je op 8.2 of 8.3 zit, maar naar het hele versienummer. Wat je nu doet, lees je in [PHP2Shell: kritiek lek in PHP](https://www.joepify.nl/blog/php2shell-php-lek).
+Veilig tegen het PHP2Shell-lek zijn volgens [php.net](https://www.php.net/) alleen de releases van 21 oktober 2026: PHP 8.5.12, 8.4.27, 8.3.36 en 8.2.35. Elke oudere patchversie binnen die reeksen is kwetsbaar, net als PHP 8.1 en ouder, waarvoor geen officiële release meer komt. Kijk dus niet alleen of je op 8.2 of 8.3 zit, maar naar het hele versienummer. Wat je nu doet, lees je in PHP2Shell: kritiek lek in PHP.
 
 ## Wat is end of life, en wat is het risico?
 
@@ -77,10 +77,9 @@ Alle vier zijn te voorkomen met een vaste planning. Zet eerst de PHP-overstap in
 
 ## Zo controleer je de PHP-versie van je site
 
-De gratis Website APK van Joepify is een scan van buitenaf die ook de PHP-versie van je site controleert, zonder in te loggen. De [website check](https://www.joepify.nl/website-apk#apk-modules) leest van buitenaf af of je site een verouderde PHP-versie meldt. Verbergt je host de versie, dan zie je hem alleen in WordPress of je hostingpaneel. De APK wijzigt niets aan je site. Krijgt je PHP-versie na 31 december 2026 geen beveiligingsupdates meer, dan zie je dat terug in het onderdeel platform. Wil je de overstap en het bijhouden van plugins liever uitbesteden, kijk dan bij [WordPress onderhoud](https://www.joepify.nl/wordpress-onderhoud).
+De gratis Website APK van Joepify is een scan van buitenaf die ook de PHP-versie van je site controleert, zonder in te loggen. De [website check](https://www.joepify.nl/website-apk#apk-modules) leest van buitenaf af of je site een verouderde PHP-versie meldt. Verbergt je host de versie, dan zie je hem alleen in WordPress of je hostingpaneel. De APK wijzigt niets aan je site. Krijgt je PHP-versie na 31 december 2026 geen beveiligingsupdates meer, dan zie je dat terug in het onderdeel platform. Wil je de overstap en het bijhouden van plugins liever uitbesteden, kijk dan bij WordPress onderhoud.
 
 - Gratis tool[Check je PHP-versie met de gratis website check](https://www.joepify.nl/website-apk)
-- Liever uitbesteden[Laat Joepify dit doen: PHP en plugins bijhouden met WordPress onderhoud](https://www.joepify.nl/wordpress-onderhoud)
 
 ---
 Bron: [PHP 8.2 end of life: wat nu voor je WordPress-site?](https://www.joepify.nl/kennisbank/php-8-2-end-of-life) · Licentie: CC BY 4.0, noem Joepify met een link naar de originele pagina.
